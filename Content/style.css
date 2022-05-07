@@ -11,7 +11,7 @@
   text-align: center;
   padding: 14px 16px 7px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
 }
 
 /* Change the color of links on hover */
@@ -36,12 +36,12 @@
 }
 
 .body {
-  text-align: justify;
+  text-align: center;
   color: black;
   font-family: arial;
   font-size: 25px;
-  padding-right: 550px;
-  padding-left: 45px;
+  padding-right: 350px;
+  padding-left: 250px;
   line-height: 50px;
 }
 
