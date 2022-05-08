@@ -2,6 +2,9 @@
 .topnav {
   background-color: #333;
   overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 /* Style the links inside the navigation bar */
@@ -11,7 +14,7 @@
   text-align: center;
   padding: 14px 16px 7px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 40px;
 }
 
 /* Change the color of links on hover */
@@ -33,6 +36,7 @@
   grid-auto-rows: (100px, auto);
   width: 500px;
 
+
 }
 
 .body {
@@ -49,6 +53,7 @@
   text-transform: capitalize;
   font-size: 32px;
   padding-left: 15px;
+  padding-top: 60px
   font-family: arial;
 }
 
@@ -65,4 +70,5 @@ width: 65%;
   grid-gap: 200px;
   float:right;
   padding-right: 80px;
+  padding-top: 50px;
 }
