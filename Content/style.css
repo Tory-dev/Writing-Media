@@ -14,7 +14,7 @@
   text-align: center;
   padding: 14px 16px 7px;
   text-decoration: none;
-  font-size: 38px;
+  font-size: 28px;
 }
 
 /* Change the color of links on hover */
@@ -32,11 +32,12 @@
 .maingrid {
   display: grid;
   grid-template-columns: (3,1fr);
-  gap: 10px;
+  gap: 20px;
   grid-auto-rows: (100px, auto);
-  width: 500px;
-
-
+  width: 250px;
+  padding-top: 65px;
+  font-size: 40px;
+  font-family: franklin gothic medium;
 }
 
 .body {
