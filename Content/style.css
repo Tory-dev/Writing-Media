@@ -84,9 +84,18 @@ width: 65%;
 .info{
   text-align: center;
   font-size: 27px;
-
+  font-family: arial;
 }
 
 .subtitle{
   text-align: center;
+}
+.body2 {
+  text-align: left;
+  color: black;
+  font-family: arial;
+  font-size: 23px;
+  padding-right: 250px;
+  padding-left: 250px;
+  line-height: 50px;
 }
