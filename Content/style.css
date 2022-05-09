@@ -78,5 +78,10 @@ width: 65%;
   padding-top: 50px;
   padding-left: 40px;
   padding-bottom: 50px;
+}
+
+.info{
+  text-align: center;
+  font-size: 27px;
 
 }
